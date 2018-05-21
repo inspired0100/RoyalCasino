@@ -4,4 +4,7 @@
     <string name="roll_button">ROLL</string>
     <string name="roll_count">Total Count: </string>
     <string name="initial_count">0</string>
+    <string name="todo">TODO</string>
+    <string name="dice_2">Dice 2</string>
+    <string name="dice_1">Dice 1</string>
 </resources>
